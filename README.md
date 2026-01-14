@@ -171,12 +171,13 @@ https://download.zerotier.com/dist/ZeroTier%20One.msi
 
 - Pravým tlačítkem → **Join Network** (obr.)
 <img width="189" height="148" alt="12" src="https://github.com/user-attachments/assets/887370fb-7204-40fa-b494-2b7d852ccca8" />
-<img width="566" height="248" alt="13" src="https://github.com/user-attachments/assets/faa50df2-28bc-4fa9-a958-35fe15b1374a" />
 
 - Vlož Network ID:
   ```
   8d1c312afa1d2c0e
   ```
+  <img width="566" height="248" alt="13" src="https://github.com/user-attachments/assets/faa50df2-28bc-4fa9-a958-35fe15b1374a" />
+
 - **Musíš mi dát vědět že se snažíš Joinout**, abych tě autorizoval v síti
 
 ---
