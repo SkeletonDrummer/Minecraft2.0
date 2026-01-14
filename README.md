@@ -62,16 +62,15 @@ Stáhni následující soubory:
    - **Fabric verze (vpravo):** `0.18.4`
 - Rozbal **Více (Advanced)** a nastav Max RAM: (obr.)
 <img width="1020" height="676" alt="7" src="https://github.com/user-attachments/assets/437de11e-1b56-4d27-a150-d27852814c3f" />
-
-Jak zjistím kolik má můj počítač RAM? (obr.) - Otevři spráce úloh (L.Ctrl+L.Shift+Esc) → záložka výkon → Paměť → to 2. číslo (XX/XX GB) = max RAM
 <img width="1317" height="769" alt="spr" src="https://github.com/user-attachments/assets/31209c02-ed5a-48d7-a3b1-6d0df92462c6" />
 
-   - **16 GB RAM počítač** → `12 GB`
-   - **Více než 16 GB RAM počítač** → `16 GB`
-   - **8 GB RAM počítač** → `6.5 GB`  
-     *(pokud máš jen 8 GB RAM, bude třeba in-game nastavit pár věcí, aby vše běželo plynule)*
-     <img width="1017" height="670" alt="8" src="https://github.com/user-attachments/assets/79ee5943-3b41-48e7-884a-8550f964f6a4" />
+- **Pro 16 GB RAM počítač** → `12 GB`
+- **Pro více než 16 GB RAM počítač** → `16 GB`
+- **Pro 8 GB RAM počítač** → `6.5 GB`  
+  *(pokud máš jen 8 GB RAM, bude třeba in-game nastavit pár věcí, aby vše běželo plynule)*
 
+Jak zjistím kolik má můj počítač RAM? (obr.) - Otevři spráce úloh (L.Ctrl+L.Shift+Esc) → záložka výkon → Paměť → to 2. číslo (XX/XX GB) = max RAM
+     <img width="1017" height="670" alt="8" src="https://github.com/user-attachments/assets/79ee5943-3b41-48e7-884a-8550f964f6a4" />
 ---
 
 ## 5. První spuštění Minecraftu
