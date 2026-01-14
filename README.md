@@ -65,7 +65,7 @@ Jak zjistím kolik má můj počítač RAM? (obr.) - Otevři spráce úloh (L.Ct
    - **16 GB RAM počítač** → `12 GB`
    - **Více než 16 GB RAM počítač** → `16 GB`
    - **8 GB RAM počítač** → `6.5 GB`  
-     *(pokud máš jen 8 GB RAM, viz poznámka níže)*
+     *(pokud máš jen 8 GB RAM, bude třeba in-game nastavit pár věcí, aby vše běželo plynule)*
      <img width="1017" height="670" alt="8" src="https://github.com/user-attachments/assets/79ee5943-3b41-48e7-884a-8550f964f6a4" />
 
 ---
