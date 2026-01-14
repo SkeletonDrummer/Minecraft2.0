@@ -149,14 +149,14 @@ Pro hraní Singleplayer Modpack **není kompletní** – některé moduly (world
 ---
 
 ### 2. Vytvoření sítě (jen kvůli tutorialu)
-- Proklikni tutorial vytvoření **1. networku**
-- Network **nebudeš používat**
-- Jakmile se dostaneš do dashboardu (obr.), zavři záložku a pokračuj dál
+- Proklikej tutorial vytvoření **1. networku**
+- Network pojmenuj jak chceš, **nebudeš ho potřebovat**
+- Jakmile se dostaneš do dashboardu (obr.), už tuto webovku nebudeš muset řešit. Zavři záložku a pokračuj dál
 <img width="1919" height="994" alt="dash" src="https://github.com/user-attachments/assets/ae0fe12b-71f9-4552-a58f-c6e11a709154" />
 
 ---
 
-### 3. Instalace klienta
+### 3. Instalace klienta (potom co sis úspěšně založil účet v kroku 2.)
 - Stáhni:
 https://download.zerotier.com/dist/ZeroTier%20One.msi
 - Nainstaluj
