@@ -113,7 +113,7 @@ Jak zjistím kolik má můj počítač RAM?
 ---
 
 ## 8. Opětovné nahrazení configů
-⚠️ Nutné kvůli *prvnímu spuštění*, který může přepsat konfiguraci zpět na default
+⚠️ Po tomto druhém spuštění *(prvním s módy)*, se může stát, že dojde k nechtěnému přepsání konfigurací zpět na default - *a proto:*
 
 - Znovu otevři Start → `%appdata%` → složka *.minecraft*
 - <img width="747" height="608" alt="start" src="https://github.com/user-attachments/assets/81e37e1f-2dea-4731-acd5-59b8718222ec" />
