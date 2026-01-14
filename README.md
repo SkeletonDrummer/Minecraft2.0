@@ -100,7 +100,7 @@ Jak zjistím kolik má můj počítač RAM?
 ⚠️ **NESTAČÍ přetáhnout z RAR archivu složky do té tvojí a přepsat soubory** - to by zanechalo nechtěné soubory navíc a způsobilo **CRASH** 
 <img width="738" height="539" alt="9" src="https://github.com/user-attachments/assets/9a908d35-b3b4-4e2f-a0c1-f62151a0f0a2" />
 
-6F. Poté **drag & drop složky z archivu** do tvojí složky `.minecraft` (obr.)
+- Poté **drag & drop složky z archivu** do tvojí složky `.minecraft` (obr.)
 <img width="1002" height="595" alt="drag" src="https://github.com/user-attachments/assets/7c0614a1-409b-4061-9f91-1376a832c7d8" />
 
 ---
