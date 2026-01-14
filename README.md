@@ -95,8 +95,8 @@ Jak zjistím kolik má můj počítač RAM?
 - Otevři stažený `.minecraft.rar` (WinRAR / 7-Zip)
 <img width="1002" height="595" alt="drag" src="https://github.com/user-attachments/assets/7c0614a1-409b-4061-9f91-1376a832c7d8" />
 
-- **Nejdříve smaž** ve své `.minecraft` složce **všechny složky, které mají stejný název jako ty v archivu `.minecraft.rar`** (`config`, `mods`, `resourcepacks`, `shaderpacks`)
-- ⚠️ **NEDĚLEJ přímý drag & drop přes existující soubory** (obr.)
+- **Nejdříve smaž** ve své `.minecraft` složce **všechny složky, které mají stejný název jako ty v archivu `.minecraft.rar`** (`config`, `mods`, `resourcepacks`, `shaderpacks`) - pokud ve své složce nemáš všechny z těchto 4, smaž prostě ty, co mají totožný název jako ty složky v staženém archivu
+- ⚠️ **NESTAČÍ přetáhnout z RAR archivu složky do té tvojí a přepsat soubory - to by zanechalo nechtěné věci navíc a způsobilo CRASH** (obr.)
 <img width="738" height="539" alt="9" src="https://github.com/user-attachments/assets/e0396099-f7a5-48ee-91f9-a96a73786cf3" />
 
 6F. Poté **drag & drop složky z archivu** do tvojí složky `.minecraft` (obr.)
