@@ -112,7 +112,7 @@ Jak zjistím kolik má můj počítač RAM? (obr.) - Otevři spráce úloh (L.Ct
 <img width="757" height="572" alt="roaming" src="https://github.com/user-attachments/assets/9e412b50-aea0-464f-9629-085fb3f07935" />
 
 - Znovu **smaž složky**, které jsou obsažené v `.minecraft.rar` (obr.)
-- <img width="738" height="539" alt="9" src="https://github.com/user-attachments/assets/ef073f1b-3608-44a3-ace4-f799d07f2687" />
+<img width="738" height="539" alt="9" src="https://github.com/user-attachments/assets/ef073f1b-3608-44a3-ace4-f799d07f2687" />
 
 - Znovu je **nahraď verzí z archivu**
 - ⚠️ **NEDĚLEJ drag & drop, protože tam zůstanou zbytky co to rozbijí**
