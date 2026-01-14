@@ -167,7 +167,7 @@ https://download.zerotier.com/dist/ZeroTier%20One.msi
 ### 4. Připojení do sítě
 - Po startu PC:
 - Vpravo dole u ikon internetu, hlasitosti apod. (případně šipka nahoru) najdi **oranžovou ikonu ZeroTier** (obr.)
-<img width="505" height="250" alt="zerodesk" src="https://github.com/user-attachments/assets/ce23b42d-374f-4489-a479-66e6a7141fd8" />
+<img width="505" height="250" alt="zerodesk" src="https://github.com/user-attachments/assets/166cdc5b-1963-4b62-8ed4-f57fe1c3db84" />
 
 - Pravým tlačítkem → **Join Network** (obr.)
 <img width="189" height="148" alt="12" src="https://github.com/user-attachments/assets/887370fb-7204-40fa-b494-2b7d852ccca8" />
