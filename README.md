@@ -131,6 +131,7 @@ Modpack by měl být nyní funkční 🎉
 Pro hraní Singleplayer Modpack **není kompletní** – některé moduly (worldgenerování, optimalizace, funkcionalita) jsou **server-side only** = tento Modpack je pro hraní na serveru
 
 ➡️ Pro **singleplayer** je nutné stáhnout a nainstalovat `extras.rar` (tady stačí jen drag & drop + případně nechat přepsat duplikace)
+- `Extras budou přidané v release 1.1.0`
 
 ---
 
