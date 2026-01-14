@@ -70,7 +70,7 @@ Stáhni následující soubory:
   *(pokud máš jen 8 GB RAM, bude třeba in-game nastavit pár věcí, aby vše běželo plynule)*
 
 Jak zjistím kolik má můj počítač RAM?  
-- Otevři správce úloh (L.Ctrl+L.Shift+Esc) → záložka výkon → Paměť → to 2. číslo (XX/XX GB) = max RAM (obr.)
+- Otevři správce úloh (L.Ctrl+L.Shift+Esc) → záložka výkon → Paměť → to 2. číslo (XX/**XX** GB) = max RAM (obr.)
 <img width="1317" height="769" alt="spr" src="https://github.com/user-attachments/assets/31209c02-ed5a-48d7-a3b1-6d0df92462c6" />
 
 ---
