@@ -81,15 +81,15 @@ Jak zjistím kolik má můj počítač RAM? (obr.) - Otevři spráce úloh (L.Ct
 ---
 
 ## 6. Nahrazení složky `.minecraft`
-6A. Otevři: Start → napiš: *%appdata%* → Enter (obr.)
+- Otevři: Start → napiš: *%appdata%* → Enter (obr.)
 <img width="747" height="608" alt="start" src="https://github.com/user-attachments/assets/c7116a9c-6f19-4981-9ee3-27169e0e03d1" />
 
-6B. Otevři složku **.minecraft**
+- Otevři složku **.minecraft**
 <img width="757" height="572" alt="roaming" src="https://github.com/user-attachments/assets/70eaa082-57fc-4402-ac38-2f77d3bcb74b" />
 
-6C. Otevři stažený `.minecraft.rar` (WinRAR / 7-Zip)
-6D. ⚠️ **NEDĚLEJ přímý drag & drop přes existující soubory**
-6E. **Nejdříve smaž** ve své `.minecraft` složce **všechny složky, které mají stejný název jako ty v archivu `.minecraft.rar`** (obr.)
+- Otevři stažený `.minecraft.rar` (WinRAR / 7-Zip)
+- **Nejdříve smaž** ve své `.minecraft` složce **všechny složky, které mají stejný název jako ty v archivu `.minecraft.rar`**
+- ⚠️ **NEDĚLEJ přímý drag & drop přes existující soubory** (obr.
 <img width="738" height="539" alt="9" src="https://github.com/user-attachments/assets/e0396099-f7a5-48ee-91f9-a96a73786cf3" />
 
 6F. Poté **drag & drop složky z archivu** do tvojí složky `.minecraft` (obr.)
