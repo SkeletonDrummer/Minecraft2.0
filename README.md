@@ -3,7 +3,7 @@
 ## Požadavky
 - Windows
 - Java JDK 25 (Adoptium Temurin viz níže)
-- Doporučeno alespoň **8 GB RAM**
+- Doporučeno alespoň **8 GB RAM počítač**
 
 ---
 
@@ -17,7 +17,7 @@ Stáhni následující soubory:
 
 ## 2A Instalace speciální Java JDK 25
 - Nainstaluj **OpenJDK25U-jdk_x64_windows_hotspot_25.0.1_8.msi**
-- **Důležité:** V sekci stromového členění komponentů k instalaci → klikni na vrchní JDK with Hotspot → Entire feature (aby se všechny komponenty aktivovaly)
+- **Důležité:** V sekci stromového členění komponentů k instalaci (obr.) → klikni na vrchní JDK with Hotspot → Entire feature (aby se všechny komponenty aktivovaly)
 
 ---
 
@@ -28,20 +28,20 @@ Stáhni následující soubory:
 ---
 
 ## 3. Nastavení účtu
-- Dole vyber **Warez (Offline mode)**
+- Dole vyber **Warez (Offline mode)** (obr.)
 - Zadej **libovolný nickname**
 - Spusť
 
 ---
 
 ## 4. Vytvoření Fabric release
-4A. V levém seznamu *Správce instalací (Releases)* klikni na **+**
-4B. Přidej nový release:
+4A. V levém seznamu *Správce instalací (Releases)* klikni na **+** (obr.)
+4B. Přidej nový release: (obr.)
    - **Verze (Loader):** Fabric  
    - **Minecraft verze (vlevo):** `1.21.11`  
    - **Fabric verze (vpravo):** `0.18.4`
-4C. Rozbal **Více (Advanced)** a nastav Max RAM:
-Jak zjistím kolik má můj počítač RAM? - Otevři spráce úloh (L.Ctrl+L.Shift+Esc) → záložka výkon → Paměť → to 2. číslo (XX/XX GB) = max RAM
+4C. Rozbal **Více (Advanced)** a nastav Max RAM: (obr.)
+Jak zjistím kolik má můj počítač RAM? (obr.) - Otevři spráce úloh (L.Ctrl+L.Shift+Esc) → záložka výkon → Paměť → to 2. číslo (XX/XX GB) = max RAM
    - **16 GB RAM počítač** → `12 GB`
    - **Více než 16 GB RAM počítač** → `16 GB`
    - **8 GB RAM počítač** → `6.5 GB`  
@@ -49,7 +49,7 @@ Jak zjistím kolik má můj počítač RAM? - Otevři spráce úloh (L.Ctrl+L.Sh
 
 ---
 
-## 5. První spuštění Minecraftu
+## 5. První spuštění Minecraftu (obr.)
 - Klikni na **Hrát**
 - Nech Minecraft **plně naběhnout**
 - V hlavním menu klikni na **Continue** ⚠️ *(důležité)*
@@ -57,7 +57,7 @@ Jak zjistím kolik má můj počítač RAM? - Otevři spráce úloh (L.Ctrl+L.Sh
 
 ---
 
-## 6. Nahrazení složky `.minecraft`
+## 6. Nahrazení složky `.minecraft` (obr.)
 6A. Otevři: Start → napiš: *%appdata%* → Enter
 6B. Otevři složku **.minecraft**
 6C. Otevři stažený `.minecraft.rar` (WinRAR / 7-Zip)
@@ -78,7 +78,7 @@ Jak zjistím kolik má můj počítač RAM? - Otevři spráce úloh (L.Ctrl+L.Sh
 ⚠️ Nutné kvůli *prvnímu spuštění*, který může přepsat konfiguraci zpět na default
 
 - Znovu otevři Start → `%appdata%` → složka *.minecraft*
-- Znovu **smaž složky**, které jsou obsažené v `.minecraft.rar`
+- Znovu **smaž složky**, které jsou obsažené v `.minecraft.rar` (obr.)
 - Znovu je **nahraď verzí z archivu**
 - ⚠️ **NEDĚLEJ drag & drop, protože tam zůstanou zbytky co to rozbijí**
 
@@ -103,15 +103,15 @@ Pro hraní Singleplayer Modpack **není kompletní** – některé moduly (world
 
 ### 1. Registrace
 - Jdi na https://www.zerotier.com/
-- Přihlas se vpravo nahoře (**New Central – NE Legacy**)
+- Přihlas se vpravo nahoře (**New Central – NE Legacy**) (obr.)
 - Stačí Google login
 
 ---
 
 ### 2. Vytvoření sítě (jen kvůli tutorialu)
-- Proklikni tutorial vytvoření **1. networku**  
+- Proklikni tutorial vytvoření **1. networku** (obr.)
 - Network **nebudeš používat**
-- Jakmile se dostaneš do dashboardu, zavři záložku a pokračuj dál
+- Jakmile se dostaneš do dashboardu, zavři záložku a pokračuj dál (obr.)
 
 ---
 
@@ -125,8 +125,8 @@ https://download.zerotier.com/dist/ZeroTier%20One.msi
 
 ### 4. Připojení do sítě
 - Po startu PC:
-- Vpravo dole u ikon internetu, hlasitosti apod. (případně šipka nahoru) najdi **oranžovou ikonu ZeroTier**
-- Pravým tlačítkem → **Join Network**
+- Vpravo dole u ikon internetu, hlasitosti apod. (případně šipka nahoru) najdi **oranžovou ikonu ZeroTier** (obr.)
+- Pravým tlačítkem → **Join Network** (obr.)
 - Vlož Network ID:
   ```
   8d1c312afa1d2c0e
@@ -137,5 +137,5 @@ https://download.zerotier.com/dist/ZeroTier%20One.msi
 
 ## Připojení na server
 - Spusť Minecraft
-- Připoj se na server:
+- Připoj se na server: (obr.)
 *IP: 10.52.121.248*
