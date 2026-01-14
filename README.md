@@ -121,6 +121,7 @@ Jak zjistím kolik má můj počítač RAM? (obr.) - Otevři spráce úloh (L.Ct
 
 ## 9. Dokončení
 Modpack by měl být nyní funkční 🎉
+⚠️ Ještě ale pár věcí, aby ho šlo hrát:
 
 ---
 
@@ -179,7 +180,7 @@ https://download.zerotier.com/dist/ZeroTier%20One.msi
 
 ## Připojení na server
 - Spusť Minecraft → Multiplayer
-- Připoj se na server: (obr.)
+- Přidej server: (obr.)
 <img width="1367" height="830" alt="14" src="https://github.com/user-attachments/assets/9f8bfbc6-21ce-4aca-859c-f1a647b64df0" />
 <img width="1369" height="834" alt="15" src="https://github.com/user-attachments/assets/1e3c0700-d8bb-495a-97d8-36e591c24e3c" />
 
