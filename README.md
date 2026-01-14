@@ -28,7 +28,7 @@ Stáhni následující soubory:
 - Otevři: Start → napiš: *%appdata%* → Enter (obr.)
 <img width="747" height="608" alt="start" src="https://github.com/user-attachments/assets/c7116a9c-6f19-4981-9ee3-27169e0e03d1" />
 
-- Smaž (neřešíš starý MC) nebo přejmenuj (backup) složku **.minecraft**
+- Smaž (neřešíš starý MC) nebo přejmenuj (backup) starou složku **.minecraft**
 <img width="757" height="572" alt="roaming" src="https://github.com/user-attachments/assets/70eaa082-57fc-4402-ac38-2f77d3bcb74b" />
 
 ---
