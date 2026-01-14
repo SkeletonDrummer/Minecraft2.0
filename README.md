@@ -156,7 +156,7 @@ Pro hraní Singleplayer Modpack **není kompletní** – některé moduly (world
 
 ---
 
-### 3. Instalace klienta (potom co sis úspěšně založil účet v kroku 2.)
+### 3. Instalace klienta (potom co sis úspěšně založil účet)
 - Stáhni:
 https://download.zerotier.com/dist/ZeroTier%20One.msi
 - Nainstaluj
