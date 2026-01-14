@@ -142,7 +142,7 @@ Pro hraní Singleplayer Modpack **není kompletní** – některé moduly (world
 - Jdi na https://www.zerotier.com/
 - Přihlas se vpravo nahoře (**New Central – NE Legacy**) (obr.)
 <img width="1920" height="1041" alt="10" src="https://github.com/user-attachments/assets/62ed8f97-ba07-4db0-8c91-81ab56808cd6" />
-<img width="1920" height="998" alt="11" src="https://github.com/user-attachments/assets/dd47704d-e5b8-49a7-8fc0-4e381a721a73" />
+<img width="1920" height="998" alt="11" src="https://github.com/user-attachments/assets/665ba9e8-81cf-4962-b845-a1a19bfdab36" />
 
 - Stačí Google login
 
