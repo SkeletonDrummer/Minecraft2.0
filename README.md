@@ -123,6 +123,7 @@ Jak zjistím kolik má můj počítač RAM?
 <img width="738" height="539" alt="9" src="https://github.com/user-attachments/assets/9a908d35-b3b4-4e2f-a0c1-f62151a0f0a2" />
 
 - Znovu je **nahraď verzí z archivu**
+
 ⚠️ **OPĚT NESTAČÍ přetáhnout z RAR archivu složky do té tvojí a přepsat soubory**
 
 ---
