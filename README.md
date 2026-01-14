@@ -1,7 +1,7 @@
 # Minecraft 2.0 Modpack – Instalace
 
 ## Požadavky
-- Windows 10+
+- Windows 10/11
 - Java Open JDK 25 Temurin by Adoptium (viz níže)
 - Doporučeno alespoň **8 GB RAM počítač**
 
