@@ -33,7 +33,7 @@ Stáhni následující soubory:
 
 ---
 
-## 2B Instalace SKLauncheru
+## 2C Instalace SKLauncheru
 - Nainstaluj **SKlauncher-3.2.18_Setup.exe**
 - Spusť launcher
 
