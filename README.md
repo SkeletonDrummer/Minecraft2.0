@@ -57,10 +57,10 @@ Stáhni následující soubory:
    - **Minecraft verze (vlevo):** `1.21.11`  
    - **Fabric verze (vpravo):** `0.18.4`
 4C. Rozbal **Více (Advanced)** a nastav Max RAM: (obr.)
-<img width="1020" height="676" alt="7" src="https://github.com/user-attachments/assets/437de11e-1b56-4d27-a150-d27852814c3f" />
+<img width="1317" height="769" alt="spr" src="https://github.com/user-attachments/assets/31209c02-ed5a-48d7-a3b1-6d0df92462c6" />
 
 Jak zjistím kolik má můj počítač RAM? (obr.) - Otevři spráce úloh (L.Ctrl+L.Shift+Esc) → záložka výkon → Paměť → to 2. číslo (XX/XX GB) = max RAM
-<img width="1317" height="769" alt="spr" src="https://github.com/user-attachments/assets/31209c02-ed5a-48d7-a3b1-6d0df92462c6" />
+<img width="1020" height="676" alt="7" src="https://github.com/user-attachments/assets/437de11e-1b56-4d27-a150-d27852814c3f" />
 
    - **16 GB RAM počítač** → `12 GB`
    - **Více než 16 GB RAM počítač** → `16 GB`
