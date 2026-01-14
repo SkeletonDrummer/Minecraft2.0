@@ -41,10 +41,14 @@ Stáhni následující soubory:
 
 ## 3. Nastavení účtu
 - Dole vyber **Warez (Offline mode)** (obr.)
-- Zadej **libovolný nickname**
-- Spusť
+
 <img width="1019" height="673" alt="4" src="https://github.com/user-attachments/assets/4088277a-6894-45cb-855a-b24e32fb153d" />
+
+- Zadej **libovolný nickname**
+
 <img width="1019" height="673" alt="5" src="https://github.com/user-attachments/assets/df937724-bd15-40fa-935f-60b1127bb275" />
+
+- Spusť
 
 ---
 
