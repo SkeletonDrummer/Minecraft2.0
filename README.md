@@ -53,9 +53,9 @@ Stáhni následující soubory:
 - Přidej nový release: (obr.)
 <img width="1018" height="676" alt="6" src="https://github.com/user-attachments/assets/66b69eec-9ad8-4268-90ff-3fbc598295c4" />
 
-   -- **Verze (Loader):** Fabric  
-   -- **Minecraft verze (vlevo):** `1.21.11`  
-   -- **Fabric verze (vpravo):** `0.18.4`
+   - **Verze (Loader):** Fabric
+   - **Minecraft verze (vlevo):** `1.21.11`
+   - **Fabric verze (vpravo):** `0.18.4`
 - Rozbal **Více (Advanced)** a nastav Max RAM: (obr.)
 <img width="1020" height="676" alt="7" src="https://github.com/user-attachments/assets/437de11e-1b56-4d27-a150-d27852814c3f" />
 
