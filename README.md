@@ -159,7 +159,7 @@ Pro hraní Singleplayer Modpack **není kompletní** – některé moduly (world
 ---
 
 ### 2. Vytvoření sítě (jen kvůli tutorialu)
-- Proklikej tutorial vytvoření **1. networku**
+- Zvol Free Plan, Proklikej tutorial vytvoření **1. networku**, 
 - Network pojmenuj jak chceš, **nebudeš ho potřebovat**
 - Jakmile se dostaneš do dashboardu (obr.), už tuto webovku nebudeš muset řešit. Zavři záložku a pokračuj dál
 <img width="1919" height="994" alt="dash" src="https://github.com/user-attachments/assets/ae0fe12b-71f9-4552-a58f-c6e11a709154" />
