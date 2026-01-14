@@ -130,7 +130,8 @@ Jak zjistím kolik má můj počítač RAM?
 
 ## 9. Dokončení
 Modpack by měl být nyní funkční 🎉
-⚠️ Ještě ale pár věcí, aby ho šlo hrát:
+
+*⚠️ Ještě ale pár věcí, aby ho šlo hrát:*
 
 ---
 
