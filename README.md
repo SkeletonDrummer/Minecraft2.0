@@ -141,11 +141,11 @@ Modpack by měl být nyní funkční 🎉
 Pro hraní Singleplayer Modpack **není kompletní** – některé moduly (worldgenerování, optimalizace, funkcionalita) jsou **server-side only** = tento Modpack je pro hraní na serveru
 
 ➡️ Pro **singleplayer** je nutné stáhnout a nainstalovat `extras.rar` (tady stačí jen drag & drop + případně nechat přepsat duplikace)
-- `Extras budou přidané v release 1.1.0`
+- `V případě zájmu budou Extras přidané v release 1.1.0`
 
 ---
 
-## ZeroTier One – LAN / Server (POVINNÉ PRO HRANÍ NA SERVERU)
+## ZeroTier One – LAN Server (NUTNÉ PRO HRANÍ NA SERVERU)
 (pokud chceš jen Singleplayer = možné vynechat - *Je ale nutné dostáhnout extras.rar viz výše)*
 
 ### 1. Registrace
