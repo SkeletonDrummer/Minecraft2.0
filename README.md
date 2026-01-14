@@ -85,7 +85,7 @@ Jak zjistím kolik má můj počítač RAM?
 
 ---
 
-## 6. Nahrazení složky `.minecraft`
+## 6. Instalace souborů do `.minecraft`
 - Otevři: Start → napiš: *%appdata%* → Enter (obr.)
 <img width="747" height="608" alt="start" src="https://github.com/user-attachments/assets/c7116a9c-6f19-4981-9ee3-27169e0e03d1" />
 
