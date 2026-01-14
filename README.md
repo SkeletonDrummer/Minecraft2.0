@@ -54,9 +54,9 @@ Stáhni následující soubory:
 
 ## 4. Vytvoření Fabric release
 - V levém seznamu *Správce instalací (Releases)* klikni na **+** (obr.)
-- Přidej nový release: (obr.)
 <img width="1018" height="676" alt="6" src="https://github.com/user-attachments/assets/66b69eec-9ad8-4268-90ff-3fbc598295c4" />
 
+- Přidej nový release: (obr.)
    - **Verze (Loader):** Fabric
    - **Minecraft verze (vlevo):** `1.21.11`
    - **Fabric verze (vpravo):** `0.18.4`
