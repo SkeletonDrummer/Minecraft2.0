@@ -2,7 +2,7 @@
 
 ## Požadavky
 - Windows
-- Adoptium Java JDK 25 Temurin (viz níže)
+- Adoptium Java Open JDK 25 Temurin (viz níže)
 - Doporučeno alespoň **8 GB RAM počítač**
 
 ---
